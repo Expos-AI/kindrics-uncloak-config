@@ -1,0 +1,45 @@
+{
+  "allow": [
+    "google.com",
+    "edu",
+    "khanacademy.org",
+    "wikipedia.org",
+    "quizlet.com",
+    "edpuzzle.com",
+    "nearpod.com",
+    "ixl.com",
+    "schoology.com",
+    "canvaslms.com",
+    "clever.com",
+    "seesaw.me",
+    "code.org",
+    "readworks.org",
+    "newsela.com",
+    "brainpop.com",
+    "typingclub.com",
+    "desmos.com",
+    "pearsonrealize.com",
+    "houghtonmifflinharcourt.com",
+    "pbslearningmedia.org"
+  ],
+  "block": [
+    "bsfa.info",
+    "nirbytes.com",
+    "croxyproxy",
+    "4everproxy",
+    "kproxy",
+    "genmirror",
+    "hidemyass",
+    "whoer.net"
+  ],
+  "keywords": [
+    "proxy",
+    "unblock",
+    "bypass",
+    "vpn",
+    "webproxy",
+    "nodeunblocker",
+    "interstellar",
+    "tabcloak"
+  ]
+}
