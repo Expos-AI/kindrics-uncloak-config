@@ -41,6 +41,10 @@
     "webproxy",
     "nodeunblocker",
     "interstellar",
-    "tabcloak"
+    "tabcloak",
+    "blockedgames",
+    "unblockedgames",
+    "games",
+    "proxie",
   ]
 }
