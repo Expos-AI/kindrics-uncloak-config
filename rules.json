@@ -1,6 +1,7 @@
 {
   "allow": [
     "google.com",
+    "classroom.google.com",
     "edu",
     "khanacademy.org",
     "wikipedia.org",
@@ -30,7 +31,8 @@
     "kproxy",
     "genmirror",
     "hidemyass",
-    "whoer.net"
+    "whoer.net",
+    "canva.com"
   ],
   "keywords": [
     "proxy",
