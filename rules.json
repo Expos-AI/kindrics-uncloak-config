@@ -45,6 +45,7 @@
     "blockedgames",
     "unblockedgames",
     "games",
-    "proxie"
+    "proxie",
+    "bypassfilter"
   ]
 }
